@@ -1,7 +1,7 @@
 
 CPP = c++
 CPPFLAGS = -Wall -Wextra -Werror -Wfatal-errors
-SRCS = FragTrap.cpp ClapTrap.cpp main.cpp
+SRCS = DiamondTrap.cpp FragTrap.cpp ScavTrap.cpp ClapTrap.cpp main.cpp
 NAME = fragtrap
 
 all: $(NAME)
