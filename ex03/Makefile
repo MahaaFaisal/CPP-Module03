@@ -2,7 +2,7 @@
 CPP = c++
 CPPFLAGS = -Wall -Wextra -Werror -Wfatal-errors
 SRCS = DiamondTrap.cpp FragTrap.cpp ScavTrap.cpp ClapTrap.cpp main.cpp
-NAME = fragtrap
+NAME = diamondtrap
 
 all: $(NAME)
 
